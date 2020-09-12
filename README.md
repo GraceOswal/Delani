@@ -55,5 +55,5 @@ The MailChimp API does not function properly.
 ## Collaborate
 
 To contribute to Delani studio, reach me on:
-    [Email](graceoswal88@gmail.com)
+    Email: (graceoswal88@gmail.com)
     [Contact] (+254 716488695)
