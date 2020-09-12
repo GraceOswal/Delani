@@ -1,7 +1,8 @@
 # Delani
-Delani Studio is a site built to practice concepts learnt including JQuery, bootstrap, javascript and working with APIS's.
-[Check it out](https://graceoswal.github.io/Delani/.
-## Description
+
+[Check out my page:](https://graceoswal.github.io/Delani/.)
+
+## My Description
 
 Delani Studio is a site built to practice concepts learnt including JQuery, bootstrap, javascript and working with APIS's.
 
@@ -13,9 +14,9 @@ Delani Studio is a site built to practice concepts learnt including JQuery, boot
 
 <img src="home/moringa/Desktop/Delani/images/screenshot_images" width="1000">
 
-## Setup.
+## My Setup
 
-To get a local copy of the site:
+Get the local copy of my site from 👍
 
 `git clone https://github.com/GraceOswal/Delani.git`
 
@@ -51,4 +52,6 @@ The MailChimp API does not function properly.
 
 ## Collaborate
 
-To contribute to Delani studio, reach me on [Email](graceoswal88@gmail.com) & Contact (+254 716488695)
+To contribute to Delani studio, reach me on:
+    [Email](graceoswal88@gmail.com) 
+    [Contact] (+254 716488695)
