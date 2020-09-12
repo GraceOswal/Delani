@@ -12,9 +12,7 @@ Delani Studio is a site built to practice concepts learnt including JQuery, boot
 
 ## Screenshot
 
-## Screenshot
-
-<img src=".../images/screenshot/shot.png">
+<img src="https://github.com/GraceOswal/Delani/blob/2f1384395e522aea4c3f638b1c71a5668a5c151c/images/screenshot_images/shot.png"
 
 ## My Setup
 
@@ -35,11 +33,6 @@ _Launch_ `index.html` file.
 - Bootstrap
 - Javascript
 - JQuery
-
-## Screenshot
-<img src="https://github.com/GraceOswal/Delani/blob/2f1384395e522aea4c3f638b1c71a5668a5c151c/images/screenshot_images/shot.png"
-
-
 
 ## BDD
 
