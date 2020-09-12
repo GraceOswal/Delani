@@ -14,7 +14,7 @@ Delani Studio is a site built to practice concepts learnt including JQuery, boot
 
 ## Screenshot
 
-<img src=".../images/screenshot/shot.png" width="1000">
+<img src=".../images/screenshot/shot.png">
 
 ## My Setup
 
