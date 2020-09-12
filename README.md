@@ -12,7 +12,7 @@ Delani Studio is a site built to practice concepts learnt including JQuery, boot
 
 ## Screenshot
 
-<img src="home/moringa/Desktop/Delani/images/screenshot_images" width="1000">
+<img src="https://home/moringa/Desktop/Delani/images/screenshot_images" width="1000">
 
 ## My Setup
 
@@ -26,7 +26,7 @@ Get the local copy of my site from 👍
 
 _Launch_ `index.html` file.
 
-## Technologies used.
+## Technologies used
 
 - HTML5
 - CSS3
@@ -53,5 +53,5 @@ The MailChimp API does not function properly.
 ## Collaborate
 
 To contribute to Delani studio, reach me on:
-    [Email](graceoswal88@gmail.com) 
+    [Email](graceoswal88@gmail.com)
     [Contact] (+254 716488695)
