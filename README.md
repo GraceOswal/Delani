@@ -12,7 +12,9 @@ Delani Studio is a site built to practice concepts learnt including JQuery, boot
 
 ## Screenshot
 
-<img src="https://home/moringa/Desktop/Delani/images/screenshot_images" width="1000">
+## Screenshot
+
+<img src=".../images/screenshot/shot.png" width="1000">
 
 ## My Setup
 
