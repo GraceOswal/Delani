@@ -36,6 +36,11 @@ _Launch_ `index.html` file.
 - Javascript
 - JQuery
 
+## Screenshot
+<img src="https://github.com/GraceOswal/Delani/blob/2f1384395e522aea4c3f638b1c71a5668a5c151c/images/screenshot_images/shot.png"
+
+
+
 ## BDD
 
 | Inputs    |                              Description |
