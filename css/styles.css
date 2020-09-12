@@ -123,8 +123,7 @@ figcaption {
 }
 
 .contact-overlay {
-    background-image: url("/images/background image/c_image.jpg");
-    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .form-control {
