@@ -46,7 +46,7 @@ body {
 }
 
 .jumbotron-fluid {
-    background-image: url("../images/backgrounds/steps_image.jpg");
+    background-image: url("../images/backgrounds/h_img.jpg");
     background-size: cover;
     height: 668px;
 }
@@ -63,16 +63,16 @@ body {
     100% {
         transform: translateY(0);
     }
-    50% {
-        transform: translateY(-60px);
+    40% {
+        transform: translateY(-55px);
     }
-    70% {
-        transform: translateY(-40px);
+    60% {
+        transform: translateY(-45px);
     }
 }
 
 .about {
-    height: 200px;
+    height: 250px;
 }
 
 .about h1 {
@@ -80,14 +80,14 @@ body {
 }
 
 .services {
-    background-image: url("../images/backgrounds/laptop_image.jpg");
+    background-image: url("../images/backgrounds/s_image.jpg");
     height: 280px;
 }
 
 .services h1 {
     position: relative;
-    top: 40px;
-    margin-bottom: 30px;
+    top: 30px;
+    margin-bottom: 20px;
 }
 
 .small-overlay {
@@ -96,7 +96,7 @@ body {
 }
 
 .what-we-do h1 {
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 figcaption {
@@ -104,22 +104,22 @@ figcaption {
 }
 
 .portfolio {
-    /*height: 660px;*/
-    padding-bottom: 40px;
+    /*height: 650px;*/
+    padding-bottom: 50px;
 }
 
 .contacts {
-    background-image: url("../images/backgrounds/machine_image.jpg");
+    background-image: url("../images/backgrounds/c_image.jpg");
     background-size: cover;
 }
 
 .contacts h1 {
     position: relative;
-    top: 35px;
+    top: 30px;
 }
 
 .text {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .contact-overlay {
@@ -154,7 +154,7 @@ input.error {
 }
 
 .email {
-    margin-right: 10px;
+    margin-right: 5px;
 }
 
 .social {
@@ -178,7 +178,7 @@ input.error {
 .portimg {
     float: right;
     position: relative;
-    margin: 3px;
+    margin: 5px;
     /*color: #333;*/
 }
 
@@ -189,22 +189,14 @@ input.error {
     width: auto;
     position: absolute;
     bottom: 0;
-    color: darkgrey;
+    color: deepskyblue;
     text-align: center;
     font-weight: bold;
     font-size: 30px;
-    padding: 20px;
+    padding: 30px;
     height: 100%;
 }
 
 textarea::placeholder {
     color: #ffffff;
 }
-
-#mc_embed_signup {
-    background: #fff;
-    clear: left;
-    font: 14px Helvetica, Arial, sans-serif;
-}
-
-#PopupSignupForm_0
