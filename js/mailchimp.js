@@ -7,7 +7,7 @@ $(function() {
     $("form#form").submit(function(event) {
         event.preventDefault();
         if (name.val() && email.val()) {
-            alert(`Hello ${name}, Thank You for reaching out...We shall get back to you very soon..`);
+            alert("Hello " + name + ", Thank You for reaching out...We shall get back to you very soon..");
         } else {
             alert("Please provide your correct name and email!");
         }
