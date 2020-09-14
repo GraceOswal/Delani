@@ -18,7 +18,7 @@ body {
 }
 
 .overlay {
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: transparent;
     height: 668px;
 }
 
@@ -91,8 +91,7 @@ body {
 }
 
 .small-overlay {
-    background-color: rgba(0, 0, 0, 0.7);
-    height: 280px;
+    background-color: transparent;
 }
 
 .what-we-do h1 {
