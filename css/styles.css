@@ -18,7 +18,8 @@ body {
 }
 
 .overlay {
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.7);
+    background-image: url("https://github.com/GraceOswal/Delani/blob/2f1384395e522aea4c3f638b1c71a5668a5c151c/images/background image/h_img.jpg");
     height: 668px;
 }
 
@@ -81,7 +82,7 @@ body {
 
 .services {
     background-image: url("/images/background image/s_image.jpg");
-    background-color: transparent;
+    height: 280px;
 }
 
 .services h1 {
@@ -111,7 +112,6 @@ figcaption {
 .contacts {
     background-image: url("/images/background image/c_image.jpg");
     background-size: cover;
-    background-color: transparent;
 }
 
 .contacts h1 {
@@ -124,7 +124,7 @@ figcaption {
 }
 
 .contact-overlay {
-    background-color: transparent;
+    background-color: rgba(0, 0, 0, 0.7);
     background-image: url("/images/background image/c_image.jpg");
     background-size: cover;
 }
