@@ -45,6 +45,7 @@ _Launch_ `index.html` file.
 ## Known Bugs
 
 The MailChimp API does not function properly.
+Images are not displaying.
 
 ## License
 
