@@ -81,7 +81,7 @@ body {
 
 .services {
     background-image: url("/images/background image/s_image.jpg");
-    height: 280px;
+    background-color: transparent;
 }
 
 .services h1 {
@@ -111,6 +111,7 @@ figcaption {
 .contacts {
     background-image: url("/images/background image/c_image.jpg");
     background-size: cover;
+    background-color: transparent;
 }
 
 .contacts h1 {
@@ -123,7 +124,7 @@ figcaption {
 }
 
 .contact-overlay {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: transparent;
     background-image: url("/images/background image/c_image.jpg");
     background-size: cover;
 }
@@ -159,7 +160,7 @@ input.error {
     margin-right: 5px;
 }
 
-.social {
+.socials {
     justify-content: center;
     padding-left: 10px;
     padding-right: 10px;
